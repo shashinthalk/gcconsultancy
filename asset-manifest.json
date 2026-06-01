@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gcconsultancy/static/css/main.95385cdd.css",
+    "main.js": "/gcconsultancy/static/js/main.0f67b3c6.js",
+    "static/js/453.8e93b3f1.chunk.js": "/gcconsultancy/static/js/453.8e93b3f1.chunk.js",
+    "index.html": "/gcconsultancy/index.html",
+    "main.95385cdd.css.map": "/gcconsultancy/static/css/main.95385cdd.css.map",
+    "main.0f67b3c6.js.map": "/gcconsultancy/static/js/main.0f67b3c6.js.map",
+    "453.8e93b3f1.chunk.js.map": "/gcconsultancy/static/js/453.8e93b3f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95385cdd.css",
+    "static/js/main.0f67b3c6.js"
+  ]
+}
