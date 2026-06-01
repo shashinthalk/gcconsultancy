@@ -1,0 +1,16 @@
+{
+  "short_name": "G Consulting",
+  "name": "G Consulting - Experienced Personal Consulting",
+  "icons": [
+    {
+      "src": "logo.de93ad0d.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
