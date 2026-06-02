@@ -347,9 +347,7 @@ function App() {
               <div>
                 <h4>Find us at the office</h4>
                 <p>
-                  800 Connecticut Avenue,
-                  <br />
-                  Norwalk, Connecticut
+                  St Kilda, Victoria - 3004
                 </p>
               </div>
             </div>
@@ -362,11 +360,10 @@ function App() {
               <div>
                 <h4>Give us a ring</h4>
                 <p>
-                  <a href="tel:+12035550147" className="contact-link">
-                    +1 (203) 555-0147
+                  <a href="tel:0399999830" className="contact-link">
+                    03 9999 9830
                   </a>
                   <br />
-                  Mon - Fri, 9AM to 6PM EST
                 </p>
               </div>
             </div>
@@ -378,9 +375,9 @@ function App() {
       <footer aria-label="Site footer">
         <div className="footer-inner">
           <a href="#home" className="footer-logo" aria-label="Back to top">
-            <img src={logoSrc} alt="G Consulting" className="footer-logo-image" />
+            <img src={logoSrc} alt="GC Consultancy" className="footer-logo-image" />
           </a>
-          <p>Copyright 2026 G Consulting. All rights reserved.</p>
+          <p>Copyright 2026 GC Consultancy. All rights reserved.</p>
         </div>
       </footer>
     </>
